@@ -8,6 +8,7 @@ public class AddingCode {
 		for(int i =1; i<=2; i++) {
 			
 			System.out.println(" i love My Pets");
+			System.out.println("Hello Java");
 			
 		}
 	}
